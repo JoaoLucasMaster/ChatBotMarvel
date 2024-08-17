@@ -5,4 +5,8 @@
   "scripts": {
     "build": "vite build"
   }
+  "devDependencies": {
+    "vite": "^X.Y.Z"
+  }
+
 }
